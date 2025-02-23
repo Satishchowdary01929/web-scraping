@@ -1,3 +1,9 @@
+Note:
+I have removed the api key from the colab file, to verify it you just add your api key in the code .
+
+below given text is the explnation of the code.
+
+
 Chat with PDF Using RAG Pipeline
 1. Introduction
 •	Overview
